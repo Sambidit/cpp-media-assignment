@@ -1,0 +1,1 @@
+// (The program is correct and will compile but ptr will have a garbage address)
